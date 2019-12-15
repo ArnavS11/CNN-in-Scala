@@ -1,7 +1,9 @@
-# CS-F301 assignment
+# Convolutional Neural Network in Scala
+### CS F301: Principles of Programming Languages course assignment
 
 *Implementing a convolutional neural network following functional programming paradgim in Scala.*
 
-This repository contains the problem statement and my solution to it. This was an assignment for the course on 'Principles of Programming Languages' at BITS Pilani. 
+This repository contains the problem statement and my solution to it. 
+This was an assignment for the  BITS Pilani curriculum course CS F301: 'Principles of Programming Languages'. 
 
 The instructions to compile and run the code have been provided in the pdf.
